@@ -20,7 +20,7 @@ To install all the dependences of the project, run the following command:
  
  <p align= "center">
   <strong>
-   Ravi Ranjan Kumar ❤️
+   pooja-
   </strong>
  </p>
 
